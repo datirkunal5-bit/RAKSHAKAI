@@ -1,2 +1,6 @@
 # RAKSHAKAI
-hackathon porject at AVCOE
+Hackathon project at AVCOE
+# Team 
+Kunal Datir
+Prathamesh Gunjal
+
